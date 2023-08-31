@@ -9,7 +9,7 @@
   },
   {
     "tag": "apresentacao",
-    "patterns": ["Quem é você?", "Se apresente"],
+    "patterns": ["quem e voce", "se apresente"],
     "responses": ["Eu sou o chatbot de suporte ao projeto PIPE. Estou aqui para ajudar com suas perguntas."]
   },
   {
@@ -23,7 +23,7 @@
     "responses": ["A submissão do projeto PIPE pode ser feita através do site da FAPESP. Você pode encontrar informações detalhadas no link: https://fapesp.br/pipe"]
   },
   {
-    "tag": "prazos",
+    "tag": "prazos", 
     "patterns": ["Prazos de submissão", "Qual prazo","qual prazo"],
     "responses": ["Os prazos de submissão de projetos PIPE variam e podem ser consultados no site da FAPESP ou no edital mais recente."]
   },
@@ -59,7 +59,7 @@
   },
   {
     "tag": "pular",
-    "patterns": ["pular etapa", "pular fase"],
+    "patterns": ["pular etapa", "pular fase","posso pular fases"],
     "responses": ["A empresa pode submeter uma proposta à Fase 2 Direta. Nesse caso é fundamental demonstrar que a viabilidade técnica da pesquisa já foi demonstrada; \n para tanto é fundamental apresentar um ótimo documento de “Justificativa para a Fase 2 Direta”."]
   },
   {
